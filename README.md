@@ -1,2 +1,2 @@
-# Project-on-Pandas
-The project involves exploring, Analyzing, and manipulating data using Pandas- a Python library used for working with datasets.
+# Hands-on with Pandas (Python)
+Pandas is an open-source Python library designed to deal with data analysis and data manipulation. Wherein Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. This project involves exploring data, analyzing data, manipulating data, intelligent data alignment, and integrated handling of missing data i.e. gaining automatic label-based alignment in computations and easily manipulating messy data into an orderly form. Another library used in this project is NumPy, which is a library for Python that adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
